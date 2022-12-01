@@ -18,11 +18,11 @@
 
 <h2>🌐 Networking Projects</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Palo Alto Firewall Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🔐 Cybersecurity Projects</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Cybersecurity Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🔗 Connect with me:</h2>
 
