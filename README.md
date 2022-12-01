@@ -12,7 +12,9 @@
 
 <h2>☁️ Cloud Projects</h2>
 
-- [Add, Remove and Update Tags for Resources in Azure](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Azure</b>
+  - [Add, Remove and Update Tags for Resources in Azure](https://github.com/andrew-morley-2/az-add-remove-update-tags)
+  - [Create and Manage Azure AD Users in the Portal](https://github.com/andrew-morley-2/az-create-manage-aad-users-portal)
 
 <h2>🌐 Networking Projects</h2>
 
