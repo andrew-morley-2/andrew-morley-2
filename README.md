@@ -7,11 +7,19 @@
 - <b>AZ-104: Microsoft Azure Administrator</b>
   - [Link](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600)
 
-<h2>📜 Projects</h2>
+<h2>☁️ Cloud Projects</h2>
 
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🌐 Networking Projects</h2>
+
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>🔐 Cybersecurity Projects</h2>
+
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
