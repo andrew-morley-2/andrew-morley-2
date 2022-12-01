@@ -5,10 +5,9 @@
 <!--
 - <b>CISSP – Certified Information Systems Security Professional</b>
   - [Link](https://images.credly.com/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png)
-
-- <b>AZ-104: Microsoft Azure Administrator</b>
-  - [Link](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600)
 -->
+- <b>AZ-104: Microsoft Azure Administrator</b> (In Progress)
+  - [Link](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600)
 
 <h2>☁️ Cloud Projects</h2>
 
