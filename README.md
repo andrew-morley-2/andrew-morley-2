@@ -12,7 +12,7 @@
 
 <h2>☁️ Cloud Projects</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Add, Remove and Update Tags for Resources in Azure](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🌐 Networking Projects</h2>
 
