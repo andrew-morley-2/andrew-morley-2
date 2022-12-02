@@ -26,11 +26,11 @@
 
 <h2>🔗 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
+[<img align="left" alt="AndrewMorley | LinkedIn" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndrewMorley | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/andrew-morley
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/c/andrew-morley-2
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
