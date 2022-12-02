@@ -28,7 +28,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/andrew-morley
 [youtube]: https://www.youtube.com/c/joshmadakor
 
 <!--
