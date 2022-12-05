@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andrew! <br/><a>Network & Cloud Security Engineer</a>, <a>Cybersecurity Professional</a></h1>
 
-<h2>📄 Certifications</h2>
+<h2>Certifications</h2>
 
 - I have provisionally passed the (ISC)2 Certified Information Systems Security Professional (CISSP) exam and am awaiting endorsement for full certification.
 <img src="https://images.credly.com/images/4c2798e5-8236-45c2-8a2c-a9c6b25117a2/Org_ISC2.png" height="9%" width="9%" alt="ISC2"/>
@@ -11,15 +11,17 @@
 - <b>AZ-104: Microsoft Azure Administrator</b> (In Progress)
 <img src="https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600" height="9%" width="9%" alt="AZ-104"/>
 
-<h2>☁️ Cloud Projects</h2>
+<h2>Projects & Labs</h2>
+
+<h3>☁️ Cloud</h3>
 
 - <b>[Azure](https://github.com/andrew-morley-2/azure)</b>
 
-<h2>🌐 Networking Projects</h2>
+<h3>🌐 Networking</h3>
 
 - <b>[Palo Alto Networks](https://github.com/andrew-morley-2/palo-alto-networks)</b>
 
-<h2>🔐 Cybersecurity Projects</h2>
+<h3>🔐 Cybersecurity</h3>
 
 - [Cybersecurity Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
