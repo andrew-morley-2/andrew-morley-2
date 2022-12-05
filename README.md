@@ -5,10 +5,10 @@
 - I have provisionally passed the (ISC)2 Certified Information Systems Security Professional (CISSP) exam and am awaiting endorsement for full certification.
 
 - <b>AZ-900: Microsoft Azure Fundamentals</b> (In Progress)
-  - [Link](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600)
+<img src="https://blogs.sap.com/wp-content/uploads/2021/05/azure-fundamentals-600x600-1.png" height="9%" width="9%" alt="AZ-900"/>
 
 - <b>AZ-104: Microsoft Azure Administrator</b> (In Progress)
-  - [Link](https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600)
+<img src="https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600" height="9%" width="9%" alt="AZ-104"/>
 
 <h2>☁️ Cloud Projects</h2>
 
