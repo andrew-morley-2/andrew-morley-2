@@ -15,7 +15,7 @@
 
 <h2>🌐 Networking Projects</h2>
 
-- [Palo Alto Firewall Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>[Palo Alto Networks](https://github.com/andrew-morley-2/palo-alto-networks)</b>
 
 <h2>🔐 Cybersecurity Projects</h2>
 
