@@ -27,9 +27,11 @@
 
 [<img align="left" alt="AndrewMorley | LinkedIn" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />][linkedin]
 [<img align="left" alt="AndrewMorley | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
+[<img align="left" alt="AndrewMorley | WordPress" width="22px" src="https://www.svgrepo.com/show/138828/wordpress-logo.svg" />][wordpress]
 
 [linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/andrew-morley
 [youtube]: https://www.youtube.com/@andrew-morley-2
+[wordpress]: https://www.youtube.com/@andrew-morley-2
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
