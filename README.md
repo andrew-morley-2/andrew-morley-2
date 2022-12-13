@@ -26,7 +26,7 @@
 
 <h3>🔐 Security</h3>
 
-- [Cybersecurity Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>[Cybersecurity Projects](https://github.com/andrew-morley-2/cybersecurity-projects)</b>
 <br/>
 
 <h2>🔗 Connect with me:</h2>
