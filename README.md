@@ -18,11 +18,11 @@
 
 - <b>[Azure](https://github.com/andrew-morley-2/azure)</b>
 
-<h3>🌐 Networking</h3>
+<h3>🌐 Network</h3>
 
 - <b>[Palo Alto Networks](https://github.com/andrew-morley-2/palo-alto-networks)</b>
 
-<h3>🔐 Cybersecurity</h3>
+<h3>🔐 Security</h3>
 
 - [Cybersecurity Project](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 <br/>
