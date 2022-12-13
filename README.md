@@ -12,7 +12,7 @@
 - <b>AZ-104: Microsoft Azure Administrator</b> (In Progress)
 <img src="https://intunedin.files.wordpress.com/2020/09/azure-administrator-associate-600x600-1.png?w=600" height="9%" width="9%" alt="AZ-104"/>
 <br/>
-––>
+-->
 
 <h2>Projects & Labs</h2>
 
