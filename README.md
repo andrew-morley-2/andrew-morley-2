@@ -22,7 +22,7 @@
 
 <h3>🔐 Security</h3>
 
-- <b>[Cybersecurity Projects](https://github.com/andrew-morley-2/cybersecurity-projects)</b>
+- <b>[Cybersecurity](https://github.com/andrew-morley-2/cybersecurity-projects)</b>
 
 <h3>💻 Infrastructure</h3>
 
