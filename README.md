@@ -2,8 +2,8 @@
 
 <h2>Certifications</h2>
 
-- I have provisionally passed the (ISC)2 Certified Information Systems Security Professional (CISSP) exam and am awaiting endorsement for full certification.
-<img src="https://images.credly.com/images/4c2798e5-8236-45c2-8a2c-a9c6b25117a2/Org_ISC2.png" height="9%" width="9%" alt="ISC2"/>
+- <b>Certified Information Systems Security Professional (CISSP)</b>
+<img src="https://images.credly.com/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png" height="9%" width="9%" alt="ISC2"/>
 
 - <b>AZ-900: Microsoft Azure Fundamentals</b>
 <img src="https://blogs.sap.com/wp-content/uploads/2021/05/azure-fundamentals-600x600-1.png" height="9%" width="9%" alt="AZ-900"/>
