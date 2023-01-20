@@ -24,7 +24,7 @@
 
 - <b>[Cybersecurity](https://github.com/andrew-morley-2/cybersecurity-projects)</b>
 
-<h3>💻 Programming</h3>
+<h3>🤖 Programming</h3>
 
 - <b>[CS50](https://github.com/andrew-morley-2/cs50)</b>
 
