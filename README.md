@@ -26,7 +26,7 @@
 
 <h3>💻 Programming</h3>
 
-- <b>[Projects](https://github.com/andrew-morley-2/microsoft)</b>
+- <b>[CS50](https://github.com/andrew-morley-2/microsoft)</b>
 
 <h3>💻 Infrastructure</h3>
 
